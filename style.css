@@ -1,0 +1,12 @@
+body {
+	width: 1000px;
+	height: 500px;
+	margin: 0px;
+	padding: 0px;
+	background:no-repeat url("bingo.jpg");
+}
+
+#paint{
+	width: 1000px;
+	height: 500px;
+}
